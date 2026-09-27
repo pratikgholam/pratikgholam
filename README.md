@@ -19,7 +19,7 @@ I've worked across a few different worlds — construction ERP software, hardwar
 - **Loan Platform APIs** — Designed and shipped ~35 client-facing REST APIs, including CRUD operations and endpoints for calculations and sorting logic.
 
 ## Connect With Me
-<a href="https://www.linkedin.com/in/pratik-g-948a77169/" target="blank">
+<a href="https://www.linkedin.com/in/pratikgholam/" target="blank">
   <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 <a href="mailto:youremail@example.com">
