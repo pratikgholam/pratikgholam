@@ -15,8 +15,11 @@ I've worked across a few different worlds — construction ERP software, hardwar
 ## Notable Projects
 *(Closed-source / employer-owned — happy to walk through architecture and decisions)*
 
+- **Construction ERP** — C# · WinForms · DevExpress · SQL Server · Azure DevOps
+  Windows-based ERP product for construction companies. Worked on the payroll team fixing bugs and building new features, and set up Azure DevOps CI/CD pipelines that cut manual release effort.
 - **Defect Detection Monitoring App** — Sole developer; built a real-time app to detect defects inside metal (e.g. rail tracks) using C#, WinForms, and SQLite.
 - **Loan Platform APIs** — Designed and shipped ~35 client-facing REST APIs, including CRUD operations and endpoints for calculations and sorting logic.
+
 
 ## Connect With Me
 <a href="https://www.linkedin.com/in/pratikgholam/" target="blank">
@@ -25,3 +28,6 @@ I've worked across a few different worlds — construction ERP software, hardwar
 <a href="mailto:youremail@example.com">
   <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+
+
+
