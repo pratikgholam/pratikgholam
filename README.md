@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm **Pratik**, a backend engineer based in India, open to remote roles.
+I'm **Pratik**, a Software Engineer based in India, open to remote roles.
 
-I work mostly with **C#, .NET Core, and SQL Server** — I like taking messy backend problems and turning them into APIs and systems that just work.
+I work mostly with **C#, .NET Core, and Rest API's** — I like taking messy backend problems and turning them into APIs and systems that just work.
 
 Over the last 5+ years I've built a real-time device monitoring app (as the sole developer) and ~35 client-facing APIs for a loan platform.
 
