@@ -8,7 +8,7 @@ Over the last 5+ years I've built a real-time device monitoring app (as the sole
 
 I've worked across a few different worlds — construction ERP software, hardware-to-backend data systems, fintech/loan platforms, and ed-tech — so I'm used to adapting fast to new domains.
 
-Currently Working on [Loan Application APIs](https://github.com/pratikgholam/loan-application-api)
+**I am currently working on** [Loan Application APIs](https://github.com/pratikgholam/loan-application-api)
 
 ## Tech Stack
 
