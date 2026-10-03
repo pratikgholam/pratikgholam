@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Pratik**, a Software Engineer based in India, open to remote roles.
+I'm **Pratik**, a Software Engineer based in India.
 
 I work mostly with **C#, .NET Core, and Rest API's** — I like taking messy backend problems and turning them into APIs and systems that just work.
 
