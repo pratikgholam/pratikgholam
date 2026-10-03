@@ -12,7 +12,7 @@ I've worked across a few different worlds — construction ERP software, hardwar
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite,postman,visualstudio,gitlab,bitbucket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,sqlite,postgres,docker,postman,visualstudio,gitlab,bitbucket)](https://skillicons.dev)
 
 ## Notable Projects
 *(Closed-source / employer-owned — happy to walk through architecture and decisions)*
