@@ -20,24 +20,6 @@ I specialize in **C#, .NET Core, and RESTful Architectures** — taking complex,
 
 ---
 
-### 🚀 Featured Work & Architecture
-
-While much of my past enterprise work is closed-source, here are key systems I’ve architected and shipped:
-
-- **💳 Loan Platform API Suite** | `C#` · `.NET Core` · `SQL`
-  - Designed and shipped ~35 client-facing REST APIs for loan processing, calculations, and complex query sorting.
-  - Check out the reference implementation: **[loan-application-api](https://github.com/pratikgholam/loan-application-api)**
-
-- **🔍 Industrial Defect Detection System** | `C#` · `WinForms` · `SQLite`
-  - Built a real-time desktop app as sole developer to monitor and detect internal metal/rail defects using sensor stream data.
-
-- **🏗️ Construction ERP** | `C#` · `SQL Server` · `Azure DevOps`
-  - Worked on core payroll modules fixing bugs and adding new features on the module.
-
-*(Happy to jump on a call to walk through architecture decisions and system design for any of these!)*
-
----
-
 ### 📫 Connect With Me
 
 <p left>
