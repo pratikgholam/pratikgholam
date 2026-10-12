@@ -18,15 +18,3 @@ I specialize in **C#, .NET Core, and RESTful Architectures** — taking complex,
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,postgres,sqlite,docker,postman,visualstudio,gitlab,bitbucket)](https://skillicons.dev)
 
----
-
-### 📫 Connect With Me
-
-<p left>
-  <a href="https://www.linkedin.com/in/pratikgholam/" target="blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:gholampratik2@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/>
-  </a>
-</p>
