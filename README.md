@@ -16,7 +16,7 @@ I specialize in **C#, .NET Core, and RESTful Architectures** — taking complex,
 
 ### 🛠️ Tech Stack & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,sqlite,docker,postman,visualstudio,gitlab,bitbucket)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,postgres,sqlite,docker,postman,visualstudio,gitlab,bitbucket)](https://skillicons.dev)
 
 ---
 
