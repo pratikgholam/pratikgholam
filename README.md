@@ -1,6 +1,6 @@
 # Hi there, I'm Pratik 👋
 
-I'm a **Backend / .NET Software Engineer** based in India with 5+ years of experience building high-performance APIs and hardware-integrated backend systems.
+I'm a **Backend / .NET Software Engineer** with 5+ years of experience building high-performance APIs and hardware-integrated backend systems.
 
 I specialize in **C#, .NET Core, and RESTful Architectures** — taking complex, messy backend challenges and turning them into clean, resilient, and scalable services.
 
