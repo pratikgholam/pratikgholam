@@ -62,17 +62,6 @@ I build REST APIs and data-driven applications in C# and .NET, from loan-platfor
 
 </div>
 
----
-
-### 🏗️ Leaderboard Architecture
-
-```mermaid
-flowchart LR
-    C[Client] -->|score updates, top-N, rank lookups| A[FastAPI]
-    A --> R[(Redis sorted set)]
-    A --> P[(PostgreSQL)]
-    P -.->|rebuild| R
-```
 
 ---
 
