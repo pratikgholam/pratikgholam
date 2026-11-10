@@ -36,7 +36,7 @@ I build REST APIs and data-driven applications in C# and .NET, from loan-platfor
     <td width="50%" valign="top" align="center">
       <h4 align="center"><a href="https://github.com/pratikgholam/groundedqa">Grounded QA</a></h4>
       <p align="center">Document Q&A API (FastAPI, PostgreSQL/pgvector) that answers only from your documents</p>
-      <p align="center">🚧 In progress</p>
+      <p align="center">✅ Complete</p>
     </td>
     
   </tr>
