@@ -38,7 +38,21 @@ I build REST APIs and data-driven applications in C# and .NET, from loan-platfor
       <p align="center">Document Q&A API (FastAPI, PostgreSQL/pgvector) that answers only from your documents</p>
       <p align="center">🚧 In progress</p>
     </td>
+    
   </tr>
+    <tr>
+    <td width="50%" valign="top" align="center">
+      <h4 align="center"><a href="https://github.com/pratikgholam/portfolio">Portfolio</a></h4>
+      <p align="center">Personal portfolio site built with React + Vite</p>
+      <p align="center">✅ Complete</p>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <h4 align="center"><a href="http://github.com/pratikgholam/loanflow-api">Loan Flow API</a></h4>
+      <p align="center">FastAPI REST API for submitting and reviewing loan applications, with JWT roles, async SQLAlchemy + PostgreSQL, and fake data</p>
+        <p align="center">🚧 In progress</p>
+    </td>
+  </tr>
+  
   <tr>
     <td width="50%" valign="top" align="center">
       <h4 align="center"><a href="https://github.com/pratikgholam/parking-lot-lld">Parking Lot (LLD)</a></h4>
@@ -51,13 +65,8 @@ I build REST APIs and data-driven applications in C# and .NET, from loan-platfor
       <p align="center">🚧 In progress</p>
     </td>
   </tr>
-  <tr>
-    <td colspan="2" valign="top" align="center">
-      <h4 align="center"><a href="https://github.com/pratikgholam/portfolio">Portfolio</a></h4>
-      <p align="center">Personal portfolio site built with React + Vite</p>
-      <p align="center">✅ Complete</p>
-    </td>
-  </tr>
+  
+  
 </table>
 
 </div>
