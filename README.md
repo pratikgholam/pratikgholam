@@ -8,7 +8,7 @@ I build REST APIs and data-driven services. 5+ years of production backend work 
 
 <a href="https://www.linkedin.com/in/pratikgholam/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
 <a href="https://portfolio.pratikgholam.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge" alt="Portfolio"></a>
-<a href="UPWORK_PROFILE_URL"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
+<a href="https://www.upwork.com/freelancers/~01f583d2e370a00e50"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
 <a href="mailto:gholampratik2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge" alt="Email"></a>
 
 </div>
