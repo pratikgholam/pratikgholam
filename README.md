@@ -49,7 +49,7 @@ I build REST APIs and data-driven applications in C# and .NET, from loan-platfor
     <td width="50%" valign="top" align="center">
       <h4 align="center"><a href="http://github.com/pratikgholam/loanflow-api">Loan Flow API</a></h4>
       <p align="center">FastAPI REST API for submitting and reviewing loan applications, with JWT roles, async SQLAlchemy + PostgreSQL, and fake data</p>
-        <p align="center">🚧 In progress</p>
+        <p align="center">✅ Complete</p>
     </td>
   </tr>
   
