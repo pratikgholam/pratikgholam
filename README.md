@@ -31,29 +31,28 @@ I started in web development and moved into backend engineering, building ~35 RE
 
 #### 1️⃣ Foundation: C# / .NET
 
-| Project | What it is | Status |
-|---|---|---|
-| [Loan Application API](https://github.com/pratikgholam/loan-application-api) | ASP.NET Core REST API for submitting and reviewing loan applications, with JWT roles, EF Core + Dapper, and fake data | ✅ Complete |
-| [Portfolio](https://github.com/pratikgholam/portfolio) | Personal portfolio site built with React + Vite | ✅ Complete |
+| Project | What it is |
+|---|---|
+| [Loan Application API](https://github.com/pratikgholam/loan-application-api) | ASP.NET Core REST API for submitting and reviewing loan applications, with JWT roles, EF Core + Dapper, and fake data 
+| [Portfolio](https://github.com/pratikgholam/portfolio) | Personal portfolio site built with React + Vite |
 
 #### 2️⃣ Moving to Python: backend APIs
 
-| Project | What it is | Status |
-|---|---|---|
-| [LoanFlow API](https://github.com/pratikgholam/loanflow-api) | FastAPI REST API for submitting and reviewing loan applications, with JWT roles, async SQLAlchemy + PostgreSQL, and fake data | ✅ Complete |
+| Project | What it is |
+|---|---|
+| [LoanFlow API](https://github.com/pratikgholam/loanflow-api) | FastAPI REST API for submitting and reviewing loan applications, with JWT roles, async SQLAlchemy + PostgreSQL, and fake data |
 
 #### 3️⃣ Design and systems thinking (Python)
 
-| Project | What it is | Status |
-|---|---|---|
-| [Parking Lot (LLD)](https://github.com/pratikgholam/parking-lot-lld) | Framework-free Python library modeling a parking lot, demonstrating Strategy, Factory, and State patterns in about 200 lines | ✅ Complete |
-| [Leaderboard (HLD)](https://github.com/pratikgholam/leaderboard-hld) | Real-time leaderboard service with FastAPI, Redis sorted sets, and PostgreSQL: score updates, top-N queries, rank lookups, and rebuilds from the database | 🚧 In progress |
-
+| Project | What it is | 
+|---|---|
+| [Parking Lot (LLD)](https://github.com/pratikgholam/parking-lot-lld) | Framework-free Python library modeling a parking lot, demonstrating Strategy, Factory, and State patterns in about 200 lines | 
+| [Leaderboard (HLD)](https://github.com/pratikgholam/leaderboard-hld) | Real-time leaderboard service with FastAPI, Redis sorted sets, and PostgreSQL: score updates, top-N queries, rank lookups, and rebuilds from the database |
 #### 4️⃣ LLM applications
 
-| Project | What it is | Status |
-|---|---|---|
-| [Grounded QA](https://github.com/pratikgholam/groundedqa) | Document Q&A API (FastAPI, PostgreSQL/pgvector) that answers only from your documents | ✅ Complete |
+| Project | What it is |
+|---|---|
+| [Grounded QA](https://github.com/pratikgholam/groundedqa) | Document Q&A API that answers only from your documents and cites its sources. FastAPI + PostgreSQL/pgvector.|
 
 ---
 
