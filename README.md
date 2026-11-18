@@ -33,7 +33,7 @@ I started in web development and moved into backend engineering, building ~35 RE
 
 | Project | What it is |
 |---|---|
-| [Loan Application API](https://github.com/pratikgholam/loan-application-api) | ASP.NET Core REST API for submitting and reviewing loan applications, with JWT roles, EF Core + Dapper, and fake data 
+| [Loan Application API](https://github.com/pratikgholam/loan-application-api) | ASP.NET Core REST API for submitting and reviewing loan applications, with JWT roles, EF Core + Dapper, RabbitMQ and fake data 
 | [Portfolio](https://github.com/pratikgholam/portfolio) | Personal portfolio site built with React + Vite |
 
 #### 2️⃣ Moving to Python: backend APIs
