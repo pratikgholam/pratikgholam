@@ -63,7 +63,7 @@ I started in web development and moved into backend engineering, building ~35 RE
 
 **Python backend (current focus)**
 
-[![Python Stack](https://skillicons.dev/icons?i=py,fastapi,postgres,redis,docker,githubactions,pytest)](https://skillicons.dev)
+[![Python Stack](https://skillicons.dev/icons?i=py,fastapi,postgres,redis,rabbitmq,docker,githubactions)](https://skillicons.dev)
 
 
 **Earlier stack (5+ years)**
